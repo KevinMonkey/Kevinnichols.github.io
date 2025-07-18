@@ -16,11 +16,11 @@ _Italic Text_
 * Bullet Point 2
 * Bullet Point 3
 
-## Background
+## Image
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-[link to background](/background)
+[**Fig 1: Image of Foldable Robotic Jumper mechanism.]
 
 ## Results
 
